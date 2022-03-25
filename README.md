@@ -29,7 +29,7 @@ All notebooks to re-create figures are in the ![notebooks](https://github.com/qu
 
 `statsmodels v0.9.0`
 
-#### Installation (if **not** using the Binder environment provided above)
+#### Installation
 
 Simply clone the repository and run a notebook as follows:
 
