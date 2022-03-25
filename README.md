@@ -8,3 +8,5 @@
 This repository contains the necessary **Jupyter Notebooks and data files to reproduce analyses and figures in the manuscript. 
 
 For example, below is Figure 2 from the manuscript which illustrates the robust separation of autosomal and random allelic X-linked genes from bulk RNA-Seq data allele-specific expression datasets (GTEx). The components of this figure can be generated individually using this repository.
+
+![alt text](img/Figure2.png)
