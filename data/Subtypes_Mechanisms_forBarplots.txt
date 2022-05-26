@@ -1,0 +1,7 @@
+Mechanism	RME_count	RME_percentage
+num_in_TADs	2538	77.5
+num_high_ChromHMM	1994	61.4
+num_gene_overlap	1692	35
+num_high_enhancers	1894	56.3
+num_high_cRE	879	36.1
+num_high_RegulatoryComplexity	2138	65.9
