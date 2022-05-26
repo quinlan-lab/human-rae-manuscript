@@ -15,13 +15,13 @@ All notebooks to re-create figures are in the ![notebooks](https://github.com/qu
 
 #### Dependencies
 
-#### For `python 3.7.3`:
+#### For `python 3.9.7`:
 
 `scipy v1.2.1`
 
 `seaborn v0.9.0`
 
-`matplotlib v2.2.3`
+`matplotlib v3.0.3`
 
 `numpy v1.16.2`
 
