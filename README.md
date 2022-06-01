@@ -27,6 +27,17 @@ All notebooks to re-create figures are in the [notebooks](https://github.com/qui
 
 `pandas v1.3.4`
 
+`jupyter-notebook v5.7.8`
+
+#### Install Dependencies
+
+```
+# using pip
+pip install -r requirements.txt
+
+# using conda environment
+conda create --name <env_name> --file requirements.txt
+```
 
 #### Installation
 
@@ -37,5 +48,5 @@ git clone https://github.com/quinlan-lab/human-rae-manuscript
 
 cd human-rae-manuscript/notebooks
 
-jupyter lab figure2.ipynb
+jupyter notebook figure2.ipynb
 
