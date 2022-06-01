@@ -31,6 +31,10 @@ All notebooks to re-create figures are in the [notebooks](https://github.com/qui
 
 #### Install Dependencies
 
+One can install [Anaconda](https://www.anaconda.com/download), which conveniently installs Python, the Jupyter Notebook, and other commonly used packages for scientific computing and data science.
+
+Alternatively, one can install with `pip` or `conda`:
+
 ```
 # using pip
 pip install -r requirements.txt
