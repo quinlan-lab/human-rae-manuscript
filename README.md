@@ -17,17 +17,16 @@ All notebooks to re-create figures are in the [notebooks](https://github.com/qui
 
 #### For `python 3.9.7`:
 
-`scipy v1.2.1`
+`scipy v1.7.1`
 
-`seaborn v0.9.0`
+`seaborn v0.11.1`
 
 `matplotlib v3.0.3`
 
-`numpy v1.16.2`
+`numpy v1.21.3`
 
-`pandas 0.24.2`
+`pandas v1.3.4`
 
-`statsmodels v0.9.0`
 
 #### Installation
 
