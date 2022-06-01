@@ -11,7 +11,7 @@ For example, below is Figure 2 from the manuscript which illustrates the robust 
 
 ![alt text](img/Figure2.png)
 
-All notebooks to re-create figures are in the [notebooks](https://github.com/quinlan-lab/human-rae-manuscript/tree/main/notebooks) folder of the repo. Each notebook is labeleled according to the corresponding manuscript figure (i.e. `figure2.ipynb`), which can be used to reproduce figures in the manuscript (minus some minor aesthetic formatting) using the data files in [data](https://github.com/quinlan-lab/human-rae-manuscript/tree/main/data). All data files are also available in the Supplement of the manuscript. The statistical analyses associated with each figure can be generated alongside the figures in the notebook. Figures in the manuscript were generated with the versions of each library listed below, though more recent versions (if applicable) will likely work, as well.
+All notebooks to re-create figures are in the [notebooks](https://github.com/quinlan-lab/human-rae-manuscript/tree/main/notebooks) folder of the repo. Each notebook is labeleled according to the corresponding manuscript figure (i.e. `figure2.ipynb`), which can be used to reproduce figures in the manuscript (minus some minor aesthetic formatting) using the data files in [data](https://github.com/quinlan-lab/human-rae-manuscript/tree/main/data). All data files are also available in the Supplement of the manuscript. The statistical analyses associated with each figure can be generated alongside the figures in the notebook. Figures in the manuscript were generated with the versions of each library listed below, though more recent versions (if applicable) or slightly older versions will most likely work, as well.
 
 #### Dependencies
 
